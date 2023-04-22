@@ -18,7 +18,7 @@ This app requires the following packages to be installed:
 You can install these packages by running:
 
 ```bash
-pip install --upgrade pip'
+pip install --upgrade pip
 
 pip install -r requirements.txt
 
