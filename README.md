@@ -19,6 +19,7 @@ You can install these packages by running:
 
 ```bash
 pip install pandas requests spacy streamlit beautifulsoup4 yfinance
+pip install -U pip setuptools wheel
 ```
 Usage
 To run the app, use the following command:
