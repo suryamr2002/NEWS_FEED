@@ -20,7 +20,19 @@ You can install these packages by running:
 ```bash
 pip install --upgrade pip
 
-pip install -r requirements.txt
+pip install pandas
+requests
+spacy
+streamlit
+beautifulsoup4
+yfinance
+pip
+setuptools
+wheel
+
+[spacy]
+spacy==3.2.0
+en_core_web_sm==3.1.0
 
 ```
 Usage
