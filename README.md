@@ -10,6 +10,7 @@ This app requires the following packages to be installed:
 - pandas
 - requests
 - spacy
+- pip install -U pip setuptools wheel
 - streamlit
 - beautifulsoup4
 - yfinance
