@@ -1,4 +1,4 @@
-!pip install -U pip setuptools wheel
+
 import pandas as pd
 import requests
 import spacy
