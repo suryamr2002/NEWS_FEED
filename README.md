@@ -18,6 +18,8 @@ This app requires the following packages to be installed:
 You can install these packages by running:
 
 ```bash
+python -m pip install --upgrade pip' command.
+
 pip install -r requirements.txt
 
 ```
