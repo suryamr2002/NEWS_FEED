@@ -18,9 +18,8 @@ This app requires the following packages to be installed:
 You can install these packages by running:
 
 ```bash
-pip install pandas requests spacy streamlit beautifulsoup4 yfinance
-pip install -U pip setuptools wheel
-python -m spacy download en_core_web_sm
+pip install -r requirements.txt
+
 ```
 Usage
 To run the app, use the following command:
